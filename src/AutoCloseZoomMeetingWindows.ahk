@@ -15,7 +15,7 @@ CloseZoomWindowsAfterJoiningAMeeting()
     SendInput, ^{F4}
 
     ; Wait until the URL opened the Zoom app to join the meeting.
-    WinWait, ahk_class ZPPTMainFrmWndClassEx,,5000
+    WinWait, ahk_class ZPPTMainFrmWndClassEx,,5
 
     ; Close the Zoom app.
     IfWinExist, ahk_class ZPPTMainFrmWndClassEx
