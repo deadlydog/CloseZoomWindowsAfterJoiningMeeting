@@ -11,7 +11,7 @@ The typical flow to joining a Zoom meeting is:
 1. Which opens the main Zoom window.
 1. Which then opens the actual Zoom meeting window.
 
-This leaves the browser tab and the main Zoom meeting windows open, and you have to manually close them.
+This leaves the browser tab and the main Zoom windows open, and you have to manually close them.
 
 ## The solution
 
