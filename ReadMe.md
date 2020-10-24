@@ -17,7 +17,7 @@ This leaves the browser tab and the main Zoom meeting windows open, and you have
 
 This repository provides 2 methods that will automatically close the browser tab and main Zoom window after joining a Zoom meeting.
 
-1. A [stand-alone executable](https://github.com/deadlydog/deadlydog.github.io/releases) that you can run.
-1. An AutoHotkey script that you can run by itself, or add the code to an existing AutoHotkey script of yours.
+1. [A stand-alone executable](https://github.com/deadlydog/deadlydog.github.io/releases) that you can run.
+1. [An AutoHotkey script](src/AutoCloseZoomMeetingWindows.ahk) that you can run by itself if you have [AutoHotkey](https://www.autohotkey.com) installed, or add the code to an existing AutoHotkey script of yours.
 
 Enjoy!
