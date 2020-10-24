@@ -20,4 +20,6 @@ This repository provides 2 methods that will automatically close the browser tab
 1. [A stand-alone executable](https://github.com/deadlydog/deadlydog.github.io/releases) that you can run.
 1. [An AutoHotkey script](src/AutoCloseZoomMeetingWindows.ahk) that you can run by itself if you have [AutoHotkey](https://www.autohotkey.com) installed, or add the code to an existing AutoHotkey script of yours.
 
+You'll likely also want to check out [how to run it automatically when you log into Windows](/Get-up-and-running-with-AutoHotkey/#run-scripts-automatically-at-startup) so that you don't need to manually run it every time you restart your computer.
+
 Enjoy!
