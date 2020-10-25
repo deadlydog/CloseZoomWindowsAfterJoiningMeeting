@@ -3,10 +3,7 @@
 
 CloseZoomWindowsAfterJoiningAMeeting()
 {
-	browserWindowTitles := [
-		"Launch Meeting - Zoom",
-		"Post Attendee - Zoom"
-	]
+	browserWindowTitles := ["Launch Meeting - Zoom", "Post Attendee - Zoom"]
 
 	; Loop over each potential browser window title to match against.
 	for index, browserWindowTitle in browserWindowTitles
