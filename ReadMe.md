@@ -31,3 +31,9 @@ Enjoy!
 ## Versions
 
 In addition to seeing the various versions on [the GitHub releases page](https://github.com/deadlydog/CloseZoomWindowsAfterJoiningMeeting/releases), you can also [view the release notes](ReleaseNotes.md).
+
+## Donate
+
+Buy me a hockey puck for providing this script and executable open source and for free :)
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/deadlydogDan/5USD)
