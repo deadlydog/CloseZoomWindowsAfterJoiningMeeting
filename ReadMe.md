@@ -28,9 +28,9 @@ You'll likely also want to check out [how to run it automatically when you log i
 
 Enjoy!
 
-## Versions
+## Changelog
 
-In addition to seeing the various versions on [the GitHub releases page](https://github.com/deadlydog/CloseZoomWindowsAfterJoiningMeeting/releases), you can also [view the release notes](ReleaseNotes.md).
+See what's changed in the application over time by viewing [the changelog](Changelog.md).
 
 ## Donate
 
