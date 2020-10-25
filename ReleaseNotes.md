@@ -1,5 +1,11 @@
 # Release Notes
 
+## v1.2.0 - October 25, 2020
+
+### Features
+
+- Adjust script to work with newer Zoom version that does not always open the main Zoom window.
+
 ## v1.1.0 - October 24, 2020
 
 ### Features
