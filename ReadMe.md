@@ -27,3 +27,7 @@ So be sure you have the browser opening Zoom meetings automatically before runni
 You'll likely also want to check out [how to run it automatically when you log into Windows](/Get-up-and-running-with-AutoHotkey/#run-scripts-automatically-at-startup) so that you don't need to manually run it every time you restart your computer.
 
 Enjoy!
+
+## Versions
+
+In addition to seeing the various versions on [the GitHub releases page](https://github.com/deadlydog/CloseZoomWindowsAfterJoiningMeeting/releases), you can also [view the release notes](ReleaseNotes.md).
